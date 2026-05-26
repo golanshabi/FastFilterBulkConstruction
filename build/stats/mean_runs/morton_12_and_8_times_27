@@ -1,0 +1,4 @@
+case_name=Morton3_8_batch avg=51.6174 var=0.000430697 num_entries=126164664
+case_name=Morton3_8_naive avg=77.7766 var=0.00167475 num_entries=126164664
+case_name=Morton3_12_batch avg=66.003 var=2.11969e-05 num_entries=126164664
+case_name=Morton3_12_naive avg=118.003 var=0.00583744 num_entries=126164664

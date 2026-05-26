@@ -1,0 +1,86 @@
+THREAD_NUM: 21
+Successfully read 1073741824 entries in 1.29405 seconds.
+n_entries=268435456
+
+Running: inc9
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.81735 total=9.6323e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.98794 total=1.00627e+09 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.78424 total=9.54876e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.8242 total=9.64957e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.78025 total=9.53869e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.82199 total=9.644e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.78213 total=9.54342e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.81212 total=9.61909e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.79175 total=9.5677e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.78769 total=9.55744e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.78646 total=9.55435e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.85144 total=9.71831e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.77941 total=9.53655e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.81907 total=9.63664e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.7799 total=9.53779e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.81339 total=9.6223e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.79347 total=9.57204e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.81773 total=9.63325e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.7864 total=9.5542e+08 num_entries=252329332
+allocated=745968102
+Running improved_hash_sort
+vec_size=15770624 num_entries=252329332
+total_per_entry=3.77775 total=9.53236e+08 num_entries=252329332
+Filter=PrefixFilterBatchStream Average time=3.80973 Variance=0.00206792

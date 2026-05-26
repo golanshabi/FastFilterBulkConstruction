@@ -1,0 +1,8 @@
+Using fp_capacity = 2^(29) = 536870912
+Testing CF8
+CF might fail.
+Time taken: 87.1424 seconds
+Per entry time: 170.266 ns
+Testing TC_shortcut
+Time taken: 32.6959 seconds
+Per entry time: 60.9009 ns

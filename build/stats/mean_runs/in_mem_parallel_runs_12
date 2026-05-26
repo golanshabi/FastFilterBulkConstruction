@@ -1,0 +1,203 @@
+Using fp_capacity = 2^(28) = 268435456
+Using THREAD_NUM = 12
+num_pd=10624421
+Hashing time: 66300539 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453267 seconds
+Parallel sort elapsed time: 0.315569 seconds
+Sorting Elapsed time: 768994552 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027489 entries_before=0 inserted_entries=252329984
+Fill time: 230808492 ns  entries: 252329984
+Tracking time: 4.22504 ns
+num_pd=10624421
+Hashing time: 66044116 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453015 seconds
+Parallel sort elapsed time: 0.315107 seconds
+Sorting Elapsed time: 768241497 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027513 entries_before=0 inserted_entries=252329984
+Fill time: 229561642 ns  entries: 252329984
+Tracking time: 4.2161 ns
+num_pd=10624421
+Hashing time: 66847895 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.452786 seconds
+Parallel sort elapsed time: 0.31435 seconds
+Sorting Elapsed time: 767253812 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027500 entries_before=0 inserted_entries=252329984
+Fill time: 228870327 ns  entries: 252329984
+Tracking time: 4.21263 ns
+num_pd=10624421
+Hashing time: 66066397 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.444125 seconds
+Parallel sort elapsed time: 0.315477 seconds
+Sorting Elapsed time: 759696680 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027513 entries_before=0 inserted_entries=252329984
+Fill time: 229012595 ns  entries: 252329984
+Tracking time: 4.18014 ns
+num_pd=10624421
+Hashing time: 66098423 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453389 seconds
+Parallel sort elapsed time: 0.314953 seconds
+Sorting Elapsed time: 768458635 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027492 entries_before=0 inserted_entries=252329984
+Fill time: 229137248 ns  entries: 252329984
+Tracking time: 4.21549 ns
+num_pd=10624421
+Hashing time: 66563400 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.452388 seconds
+Parallel sort elapsed time: 0.31621 seconds
+Sorting Elapsed time: 768715053 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027507 entries_before=0 inserted_entries=252329984
+Fill time: 229285612 ns  entries: 252329984
+Tracking time: 4.21894 ns
+num_pd=10624421
+Hashing time: 66011081 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453095 seconds
+Parallel sort elapsed time: 0.315241 seconds
+Sorting Elapsed time: 768457085 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027514 entries_before=0 inserted_entries=252329984
+Fill time: 229556422 ns  entries: 252329984
+Tracking time: 4.2168 ns
+num_pd=10624421
+Hashing time: 66056704 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453321 seconds
+Parallel sort elapsed time: 0.315931 seconds
+Sorting Elapsed time: 769363331 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027494 entries_before=0 inserted_entries=252329984
+Fill time: 229978307 ns  entries: 252329984
+Tracking time: 4.22224 ns
+num_pd=10624421
+Hashing time: 66021817 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453387 seconds
+Parallel sort elapsed time: 0.315794 seconds
+Sorting Elapsed time: 769295290 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027496 entries_before=0 inserted_entries=252329984
+Fill time: 229203688 ns  entries: 252329984
+Tracking time: 4.21876 ns
+num_pd=10624421
+Hashing time: 66066668 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453102 seconds
+Parallel sort elapsed time: 0.314609 seconds
+Sorting Elapsed time: 767827240 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027485 entries_before=0 inserted_entries=252329984
+Fill time: 229292409 ns  entries: 252329984
+Tracking time: 4.21348 ns
+num_pd=10624421
+Hashing time: 66129743 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453011 seconds
+Parallel sort elapsed time: 0.31539 seconds
+Sorting Elapsed time: 768516601 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027480 entries_before=0 inserted_entries=252329984
+Fill time: 229586481 ns  entries: 252329984
+Tracking time: 4.21762 ns
+num_pd=10624421
+Hashing time: 65995511 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.452706 seconds
+Parallel sort elapsed time: 0.318489 seconds
+Sorting Elapsed time: 771312372 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027487 entries_before=0 inserted_entries=252329984
+Fill time: 229335298 ns  entries: 252329984
+Tracking time: 4.22718 ns
+num_pd=10624421
+Hashing time: 66079835 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453372 seconds
+Parallel sort elapsed time: 0.314518 seconds
+Sorting Elapsed time: 768009721 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027492 entries_before=0 inserted_entries=252329984
+Fill time: 229414512 ns  entries: 252329984
+Tracking time: 4.21474 ns
+num_pd=10624421
+Hashing time: 66085301 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453168 seconds
+Parallel sort elapsed time: 0.314533 seconds
+Sorting Elapsed time: 767818199 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027500 entries_before=0 inserted_entries=252329984
+Fill time: 229113582 ns  entries: 252329984
+Tracking time: 4.21281 ns
+num_pd=10624421
+Hashing time: 65977735 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453423 seconds
+Parallel sort elapsed time: 0.317502 seconds
+Sorting Elapsed time: 771042560 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027492 entries_before=0 inserted_entries=252329984
+Fill time: 232808614 ns  entries: 252329984
+Tracking time: 4.2398 ns
+num_pd=10624421
+Hashing time: 66105088 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453365 seconds
+Parallel sort elapsed time: 0.315207 seconds
+Sorting Elapsed time: 768691241 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027500 entries_before=0 inserted_entries=252329984
+Fill time: 229475526 ns  entries: 252329984
+Tracking time: 4.21778 ns
+num_pd=10624421
+Hashing time: 66012182 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453369 seconds
+Parallel sort elapsed time: 0.315492 seconds
+Sorting Elapsed time: 768979790 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027484 entries_before=0 inserted_entries=252329984
+Fill time: 229328230 ns  entries: 252329984
+Tracking time: 4.21797 ns
+num_pd=10624421
+Hashing time: 66095091 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453384 seconds
+Parallel sort elapsed time: 0.31688 seconds
+Sorting Elapsed time: 770380222 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027492 entries_before=0 inserted_entries=252329984
+Fill time: 230380338 ns  entries: 252329984
+Tracking time: 4.22802 ns
+num_pd=10624421
+Hashing time: 65989762 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.453181 seconds
+Parallel sort elapsed time: 0.315791 seconds
+Sorting Elapsed time: 769087069 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027502 entries_before=0 inserted_entries=252329984
+Fill time: 229811901 ns  entries: 252329984
+Tracking time: 4.22022 ns
+num_pd=10624421
+Hashing time: 66046099 ns  entries: 252329984
+radix=8 v_add.size()=252329984
+First sort elapsed time: 0.45269 seconds
+Parallel sort elapsed time: 0.314952 seconds
+Sorting Elapsed time: 767757459 ns  entries: 252329984
+[Fill] Prefix_Filter
+cap=21027490 entries_before=0 inserted_entries=252329984
+Fill time: 229652461 ns  entries: 252329984
+Tracking time: 4.21454 ns
+Filter=MultiThreadedInMem Average time=4.21751 Variance=0.00011363

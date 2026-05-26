@@ -1,0 +1,49 @@
+Running with exponent 25 (fp_capacity = 2^26)
+Using fp_capacity = 2^(26) = 33554432
+Testing RAM taken for size 33554432
+l1=45210208
+l2=3233216
+l1 + l2 = 48443424
+B per entry = 1.44373
+Running with exponent 26 (fp_capacity = 2^27)
+Using fp_capacity = 2^(27) = 67108864
+Testing RAM taken for size 67108864
+l1=90420384
+l2=6466368
+l1 + l2 = 96886752
+B per entry = 1.44373
+Running with exponent 27 (fp_capacity = 2^28)
+Using fp_capacity = 2^(28) = 134217728
+Testing RAM taken for size 134217728
+l1=180840736
+l2=12932736
+l1 + l2 = 193773472
+B per entry = 1.44372
+Running with exponent 28 (fp_capacity = 2^29)
+Using fp_capacity = 2^(29) = 268435456
+Testing RAM taken for size 268435456
+l1=361681472
+l2=25865408
+l1 + l2 = 387546880
+B per entry = 1.44372
+Running with exponent 29 (fp_capacity = 2^30)
+Using fp_capacity = 2^(30) = 536870912
+Testing RAM taken for size 536870912
+l1=723362944
+l2=51730752
+l1 + l2 = 775093696
+B per entry = 1.44372
+Running with exponent 30 (fp_capacity = 2^31)
+Using fp_capacity = 2^(31) = 1073741824
+Testing RAM taken for size 1073741824
+l1=1446725856
+l2=103461504
+l1 + l2 = 1550187360
+B per entry = 1.44372
+Running with exponent 31 (fp_capacity = 2^32)
+Using fp_capacity = 2^(32) = 2147483648
+Testing RAM taken for size 2147483648
+l1=2893451680
+l2=206922944
+l1 + l2 = 3100374624
+B per entry = 1.44372

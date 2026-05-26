@@ -1,0 +1,38 @@
+argv[1]=30
+q_power=30
+done initializing filters
+Initializing quotient filters with q=30
+Initializing normal insertion quotient filter with q=30, r=1 (capacity=1073741824)
+Initializing batch insertion quotient filter with q=30, r=1 (capacity=1073741824)
+initing qf with qbits=30, rbits=1, elem_bits=4, index_mask=1073741823, rmask=1, elem_mask=15, entries=0, max_size=1073741824, table=0x7f371ee9c010
+index_mask=1073741823, rmask=1, elem_mask=15
+done initializing batch filter
+done initializing filters 2
+Reading 1073741824 uint64_t entries from /specific/disk1/home/golans/git/PrefixFilterFiller/build/vectors.bin
+r=1, q_power=30
+Successfully read 1073741824 entries from file
+done reading entries
+Sorting 1073741824 entries...
+total_bits=31
+Sorting Elapsed time:   20.5641 s
+Sorting completed.
+done sorting entries
+Inserting 1073741824 entries into batch quotient filter
+unique_entries=844977429 max_index=1073741824
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 1073741824
+  Entries successfully inserted: 1073741824
+  Quotient filter entries: 844977429
+  Quotient filter capacity: 1073741824
+  Load factor: 78.69%
+  Sorting time: 23800746567 nanoseconds
+  Batch insertion time (only): 17447941182 nanoseconds
+  Total batch insertion time (including sorting): 41248687749 nanoseconds
+  Time per insertion (including sorting): 38.42 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 0.00x faster than normal insertion
+  Batch insertion (without sorting) is 0.00x faster than normal insertion
+
+Test completed successfully!

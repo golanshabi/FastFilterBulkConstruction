@@ -1,0 +1,181 @@
+rack-mad-22r% for i in {20..28}; do ./measure_drives 28 $i 1 ; echo "done $i"; done
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.30975 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.81917 s
+Total processing time: 8.98779 s
+Total important time: 8.44201 s
+Total important time per entry: 31.449 ns
+Reading time: 0.537901 s
+Hashing time: 5.62281 s
+Sorting time: 0 s
+Filling time: 2.81921 s
+done 20
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.31699 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.80288 s
+Total processing time: 8.81823 s
+Total important time: 8.24231 s
+Total important time per entry: 30.705 ns
+Reading time: 0.56799 s
+Hashing time: 5.4394 s
+Sorting time: 0 s
+Filling time: 2.80291 s
+done 21
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.33905 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.79542 s
+Total processing time: 8.50351 s
+Total important time: 7.91304 s
+Total important time per entry: 29.4784 ns
+Reading time: 0.582549 s
+Hashing time: 5.11759 s
+Sorting time: 0 s
+Filling time: 2.79545 s
+done 22
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.31817 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.85202 s
+Total processing time: 8.08194 s
+Total important time: 7.49454 s
+Total important time per entry: 27.9193 ns
+Reading time: 0.579491 s
+Hashing time: 4.64249 s
+Sorting time: 0 s
+Filling time: 2.85205 s
+done 23
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.33904 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.79548 s
+Total processing time: 7.48263 s
+Total important time: 6.88909 s
+Total important time per entry: 25.6639 ns
+Reading time: 0.585613 s
+Hashing time: 4.09358 s
+Sorting time: 0 s
+Filling time: 2.79551 s
+done 24
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.31666 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.81008 s
+Total processing time: 7.16207 s
+Total important time: 6.57426 s
+Total important time per entry: 24.491 ns
+Reading time: 0.579959 s
+Hashing time: 3.76415 s
+Sorting time: 0 s
+Filling time: 2.81011 s
+done 25
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.34034 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.80941 s
+Total processing time: 7.09527 s
+Total important time: 6.50178 s
+Total important time per entry: 24.221 ns
+Reading time: 0.585659 s
+Hashing time: 3.69235 s
+Sorting time: 0 s
+Filling time: 2.80944 s
+done 26
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.31655 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.80077 s
+Total processing time: 7.08522 s
+Total important time: 6.49745 s
+Total important time per entry: 24.2049 ns
+Reading time: 0.579865 s
+Hashing time: 3.69665 s
+Sorting time: 0 s
+Filling time: 2.8008 s
+done 27
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.34055 seconds.
+n_entries=1073741824
+
+Running: inc9
+upper=361681472
+lower=25865408
+total=387546880
+num_pd=11302546
+allocated=745968102
+Running improved_hash_sort
+       Elapsed time:   2.81237 s
+Total processing time: 7.14851 s
+Total important time: 6.55527 s
+Total important time per entry: 24.4203 ns
+Reading time: 0.585329 s
+Hashing time: 3.74287 s
+Sorting time: 0 s
+Filling time: 2.81241 s
+done 28

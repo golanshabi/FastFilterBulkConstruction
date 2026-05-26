@@ -1,0 +1,100 @@
+ Performance counter stats for process id '367856':
+
+     2,509,132,522      cycles                                                        (54.31%)
+     4,987,846,771      instructions              #    1.99  insn per cycle           (63.45%)
+       596,830,690      branches                                                      (72.58%)
+         1,907,313      branch-misses             #    0.32% of all branches          (81.72%)
+            49,874      dTLB-load-misses                                              (72.58%)
+               782      iTLB-load-misses                                              (72.59%)
+        26,417,661      cache-misses                                                  (81.72%)
+           701,143      LLC-load-misses                                               (81.73%)
+        12,670,959      LLC-store-misses                                              (82.08%)
+     1,044,776,740      L1-dcache-loads                                               (45.69%)
+        76,734,506      L1-dcache-load-misses     #    7.34% of all L1-dcache accesses  (45.33%)
+
+       2.002119674 seconds time elapsed
+
+
+ Performance counter stats for process id '367891':
+
+     4,994,034,920      cycles                                                        (54.12%)
+     9,925,305,264      instructions              #    1.99  insn per cycle           (63.30%)
+     1,185,908,910      branches                                                      (72.48%)
+         3,877,177      branch-misses             #    0.33% of all branches          (81.66%)
+           353,012      dTLB-load-misses                                              (72.87%)
+             1,320      iTLB-load-misses                                              (73.03%)
+        53,079,333      cache-misses                                                  (82.02%)
+         1,449,195      LLC-load-misses                                               (82.02%)
+        25,419,864      LLC-store-misses                                              (82.02%)
+     1,940,848,943      L1-dcache-loads                                               (45.12%)
+       156,017,443      L1-dcache-load-misses     #    8.04% of all L1-dcache accesses  (44.96%)
+
+       3.003150476 seconds time elapsed
+
+
+ Performance counter stats for process id '367920':
+
+    10,307,292,656      cycles                                                        (54.56%)
+    20,012,695,456      instructions              #    1.94  insn per cycle           (63.66%)
+     2,377,839,203      branches                                                      (72.75%)
+         7,637,572      branch-misses             #    0.32% of all branches          (81.83%)
+         3,401,421      dTLB-load-misses                                              (72.75%)
+             1,455      iTLB-load-misses                                              (72.75%)
+       121,290,969      cache-misses                                                  (81.83%)
+         3,838,135      LLC-load-misses                                               (81.83%)
+        66,307,775      LLC-store-misses                                              (81.83%)
+     3,985,167,397      L1-dcache-loads                                               (45.42%)
+       311,791,197      L1-dcache-load-misses     #    7.82% of all L1-dcache accesses  (45.42%)
+
+       6.006292480 seconds time elapsed
+
+
+ Performance counter stats for process id '367947':
+
+    21,008,528,892      cycles                                                        (54.54%)
+    40,011,733,472      instructions              #    1.90  insn per cycle           (63.63%)
+     4,773,121,324      branches                                                      (72.72%)
+        14,949,055      branch-misses             #    0.31% of all branches          (81.81%)
+        10,115,989      dTLB-load-misses                                              (72.72%)
+             2,874      iTLB-load-misses                                              (72.72%)
+       243,371,817      cache-misses                                                  (81.81%)
+        12,003,794      LLC-load-misses                                               (81.81%)
+       131,773,968      LLC-store-misses                                              (81.82%)
+     7,943,138,495      L1-dcache-loads                                               (45.47%)
+       629,512,351      L1-dcache-load-misses     #    7.93% of all L1-dcache accesses  (45.46%)
+
+      10.010479510 seconds time elapsed
+
+
+ Performance counter stats for process id '367973':
+
+    42,201,366,163      cycles                                                        (54.49%)
+    79,831,630,670      instructions              #    1.89  insn per cycle           (63.59%)
+     9,501,793,823      branches                                                      (72.69%)
+        31,106,150      branch-misses             #    0.33% of all branches          (81.80%)
+        23,973,517      dTLB-load-misses                                              (72.73%)
+             4,310      iTLB-load-misses                                              (72.75%)
+       452,760,460      cache-misses                                                  (81.84%)
+        32,462,588      LLC-load-misses                                               (81.84%)
+       200,422,375      LLC-store-misses                                              (81.84%)
+    15,864,746,280      L1-dcache-loads                                               (45.43%)
+     1,511,639,642      L1-dcache-load-misses     #    9.53% of all L1-dcache accesses  (45.41%)
+
+      19.019864312 seconds time elapsed
+
+rack-mad-22r% 
+ Performance counter stats for process id '368010':
+
+    85,493,094,786      cycles                                                        (54.52%)
+   159,550,153,689      instructions              #    1.87  insn per cycle           (63.62%)
+    18,986,055,099      branches                                                      (72.72%)
+        61,109,214      branch-misses             #    0.32% of all branches          (81.81%)
+        50,824,689      dTLB-load-misses                                              (72.74%)
+             8,833      iTLB-load-misses                                              (72.74%)
+       917,183,380      cache-misses                                                  (81.83%)
+        75,266,295      LLC-load-misses                                               (81.83%)
+       400,827,561      LLC-store-misses                                              (81.83%)
+    31,637,311,683      L1-dcache-loads                                               (45.43%)
+     3,020,095,302      L1-dcache-load-misses     #    9.55% of all L1-dcache accesses  (45.43%)
+
+      37.038691468 seconds time elapsed

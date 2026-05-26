@@ -1,0 +1,47 @@
+PF:
+     2,480,234,483      cycles                                                      
+     5,448,789,081      cycles                                                      
+    11,756,686,894      cycles                                                      
+    25,065,165,809      cycles                                                      
+    51,747,089,591      cycles                                                      
+   104,498,343,952      cycles
+
+CF:
+     6,783,056,733      cycles                                                      
+    18,609,117,526      cycles                                                      
+    45,688,261,495      cycles                                                      
+    96,638,945,748      cycles                                                      
+   210,409,496,872      cycles                                                      
+   412,167,945,344      cycles
+
+TC:
+     3,561,625,584      cycles                                                      
+     8,135,515,093      cycles                                                      
+    17,915,871,197      cycles                                                      
+    37,995,365,836      cycles                                                      
+    80,347,407,113      cycles                                                      
+   164,725,907,345      cycles
+
+PF:
+  2^25: 73.92 cycles/entry
+  2^26: 81.19 cycles/entry
+  2^27: 87.59 cycles/entry
+  2^28: 93.38 cycles/entry
+  2^29: 96.39 cycles/entry
+  2^30: 97.32 cycles/entry
+
+CF:
+  2^25: 202.15 cycles/entry
+  2^26: 277.30 cycles/entry
+  2^27: 340.40 cycles/entry
+  2^28: 360.01 cycles/entry
+  2^29: 391.92 cycles/entry
+  2^30: 383.86 cycles/entry
+
+TC:
+  2^25: 106.14 cycles/entry
+  2^26: 121.23 cycles/entry
+  2^27: 133.48 cycles/entry
+  2^28: 141.54 cycles/entry
+  2^29: 149.66 cycles/entry
+  2^30: 153.41 cycles/entry

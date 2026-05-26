@@ -1,0 +1,26 @@
+THREAD_NUM: 1
+Successfully read 1073741824 entries in 1.3254 seconds.
+n_entries=33554432
+
+Running: inc9
+allocated=93246120
+Running improved_hash_sort
+vec_size=31541248 num_entries=31541168
+total_per_entry=22.4818 total=7.09102e+08 num_entries=31541168
+allocated=93246120
+Running improved_hash_sort
+vec_size=31541248 num_entries=31541168
+total_per_entry=22.4258 total=7.07337e+08 num_entries=31541168
+allocated=93246120
+Running improved_hash_sort
+vec_size=31541248 num_entries=31541168
+total_per_entry=22.4503 total=7.08107e+08 num_entries=31541168
+allocated=93246120
+Running improved_hash_sort
+vec_size=31541248 num_entries=31541168
+total_per_entry=22.3826 total=7.05974e+08 num_entries=31541168
+allocated=93246120
+Running improved_hash_sort
+vec_size=31541248 num_entries=31541168
+total_per_entry=22.4521 total=7.08165e+08 num_entries=31541168
+Filter=PrefixFilterBatchStream Average time=22.4385 Variance=0.00109636

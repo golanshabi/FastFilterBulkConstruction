@@ -1,0 +1,134 @@
+argv[1]=29
+q_power=29
+
+=== NORMAL INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries successfully inserted: 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Total insertion time: 156759810306 nanoseconds
+  Time per insertion: 310.63 nanoseconds
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries processed 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Sorting time: 13893291458 nanoseconds
+  Batch insertion time (only): 8472723766 nanoseconds
+  Total batch insertion time (including sorting): 22366015224 nanoseconds
+  Time per insertion (including sorting): 44.32 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 7.01x faster than normal insertion
+  Batch insertion (without sorting) is 18.50x faster than normal insertion
+Tracking time: 310.63 ns
+Tracking time: 44.32 ns
+
+=== NORMAL INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries successfully inserted: 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Total insertion time: 156311965808 nanoseconds
+  Time per insertion: 309.74 nanoseconds
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries processed 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Sorting time: 13813380511 nanoseconds
+  Batch insertion time (only): 8459685723 nanoseconds
+  Total batch insertion time (including sorting): 22273066234 nanoseconds
+  Time per insertion (including sorting): 44.13 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 7.02x faster than normal insertion
+  Batch insertion (without sorting) is 18.48x faster than normal insertion
+Tracking time: 309.74 ns
+Tracking time: 44.13 ns
+
+=== NORMAL INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries successfully inserted: 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Total insertion time: 156386089971 nanoseconds
+  Time per insertion: 309.88 nanoseconds
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries processed 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Sorting time: 13810492257 nanoseconds
+  Batch insertion time (only): 8458545488 nanoseconds
+  Total batch insertion time (including sorting): 22269037745 nanoseconds
+  Time per insertion (including sorting): 44.13 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 7.02x faster than normal insertion
+  Batch insertion (without sorting) is 18.49x faster than normal insertion
+Tracking time: 309.88 ns
+Tracking time: 44.13 ns
+
+=== NORMAL INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries successfully inserted: 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Total insertion time: 156431817666 nanoseconds
+  Time per insertion: 309.98 nanoseconds
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries processed 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Sorting time: 13961671819 nanoseconds
+  Batch insertion time (only): 8574930467 nanoseconds
+  Total batch insertion time (including sorting): 22536602286 nanoseconds
+  Time per insertion (including sorting): 44.66 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 6.94x faster than normal insertion
+  Batch insertion (without sorting) is 18.24x faster than normal insertion
+Tracking time: 309.98 ns
+Tracking time: 44.66 ns
+
+=== NORMAL INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries successfully inserted: 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Total insertion time: 159731835584 nanoseconds
+  Time per insertion: 316.51 nanoseconds
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 504658660
+  Entries processed 504658660
+  Quotient filter entries: 503733158
+  Quotient filter capacity: 536870912
+  Load factor: 93.83%
+  Sorting time: 14380618395 nanoseconds
+  Batch insertion time (only): 8471345172 nanoseconds
+  Total batch insertion time (including sorting): 22851963567 nanoseconds
+  Time per insertion (including sorting): 45.28 nanoseconds
+
+=== PERFORMANCE COMPARISON ===
+  Batch insertion (including sorting) is 6.99x faster than normal insertion
+  Batch insertion (without sorting) is 18.86x faster than normal insertion
+Tracking time: 316.51 ns
+Tracking time: 45.28 ns
+Filter=QF_batch avg=44.50 var=0.18827
+Filter=QF_normal avg=311.34768 var=6.76650

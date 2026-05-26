@@ -1,0 +1,14 @@
+argv[1]=26
+q_power=26
+Tracking time: 295.315 ns
+Tracking time: 42.472 ns
+Tracking time: 294.976 ns
+Tracking time: 42.4901 ns
+Tracking time: 295.236 ns
+Tracking time: 42.4602 ns
+Tracking time: 295.178 ns
+Tracking time: 42.5067 ns
+Tracking time: 294.77 ns
+Tracking time: 42.494 ns
+Filter=QF_batch avg=42.4846 var=0.00027
+Filter=QF_normal avg=295.09481 var=0.03901

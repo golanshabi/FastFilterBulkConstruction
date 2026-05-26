@@ -1,0 +1,5 @@
+Using fp_capacity = 2^(26) = 67108864
+fp_capacity: 63082336
+Filter=RadixAVX2 Average time=11.3691 Variance=0.000682102
+Filter=VQSort Average time=13.5548 Variance=0.00519354
+Filter=Radix Average time=19.0137 Variance=0.000264087

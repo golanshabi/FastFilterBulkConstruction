@@ -1,0 +1,17 @@
+Using fp_capacity = 2^(31) = 2147483648
+Testing CF12
+CF might fail.
+[Fill] CuckooFilter
+Time spent filling: 372.809 s
+Per entry time: 182.721 ns
+Total number of entries: 2147483648
+Total insertions: 2040320769
+Time taken: 372.81 seconds
+Testing CF8
+CF might fail.
+[Fill] CuckooFilter
+Time spent filling: 341.551 s
+Per entry time: 167.446 ns
+Total number of entries: 2147483648
+Total insertions: 2039774797
+Time taken: 341.551 seconds

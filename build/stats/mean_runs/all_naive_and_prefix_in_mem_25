@@ -1,0 +1,152 @@
+Using fp_capacity = 2^(25) = 33554432
+fp_capacity: 31541168
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 3.39702 seconds
+Per entry time: 107.701 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 3.4111 seconds
+Per entry time: 108.147 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 3.44293 seconds
+Per entry time: 109.157 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 3.40853 seconds
+Per entry time: 108.066 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 3.40054 seconds
+Per entry time: 107.813 ns
+Filter=CF12 Average time=108.176 Variance=0.266429
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 2.68999 seconds
+Per entry time: 85.285 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 2.64359 seconds
+Per entry time: 83.8139 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 2.67098 seconds
+Per entry time: 84.6824 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 2.65096 seconds
+Per entry time: 84.0476 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+CF might fail.
+[Fill] CuckooFilter
+Inserted entries: 31541168
+Time taken: 2.65202 seconds
+Per entry time: 84.0812 ns
+Filter=CF8 Average time=84.3812 Variance=0.2861
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] TC_shortcut
+Time taken: 1.52607 seconds
+Per entry time: 48.3835 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] TC_shortcut
+Time taken: 1.55703 seconds
+Per entry time: 49.3649 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] TC_shortcut
+Time taken: 1.50726 seconds
+Per entry time: 47.787 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] TC_shortcut
+Time taken: 1.4533 seconds
+Per entry time: 46.0764 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] TC_shortcut
+Time taken: 1.51263 seconds
+Per entry time: 47.9574 ns
+Filter=TC_shortcut Average time=47.7237 Variance=1.14238
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.912429 seconds
+Per entry time: 28.9282 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.910908 seconds
+Per entry time: 28.88 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.906259 seconds
+Per entry time: 28.7326 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.906489 seconds
+Per entry time: 28.7399 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.911889 seconds
+Per entry time: 28.9111 ns
+Filter=PrefixFilter Average time=28.8383 Variance=0.00719545
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.235949 seconds
+Per entry time: 7.48067 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.237571 seconds
+Per entry time: 7.53208 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.234701 seconds
+Per entry time: 7.4411 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.235004 seconds
+Per entry time: 7.45071 ns
+filter_max_capacity: 33554432
+v_add->size(): 31541168
+[Fill] Prefix_Filter
+Time taken: 0.239297 seconds
+Per entry time: 7.5868 ns
+Filter=PrefixFilterBatch Average time=21.3907 Variance=0.0039105

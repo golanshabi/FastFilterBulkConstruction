@@ -1,0 +1,23 @@
+Reading 2^30 = 1073741824 entries (from command line argument)
+Initializing Morton filter with size: 1610612736 slots
+Reading 1073741824 uint64_t entries from /specific/disk1/home/golans/git/PrefixFilterFiller/build/vectors.bin
+Successfully read 1073741824 entries from file
+Batch inserting 1073741824 entries into Morton filter
+Batch insertion completed. Successfully inserted: 1073741824 / 1073741824 entries
+
+=== BATCH INSERTION RESULTS ===
+  Entries read from file: 1073741824
+  Entries inserted (multiple of 128): 1073741824
+  Entries successfully inserted: 1073741824
+  Total reading time: 21676650338 nanoseconds
+  Time per read: 20.19 nanoseconds
+  Total insertion time: 52913445242 nanoseconds
+  Time per insertion: 49.28 nanoseconds
+  Insertion throughput: 20.29 million insertions/second
+
+Verifying inserted entries...
+Verification results: 1073741824/1073741824 entries found in filter (100.0%)
+  Total lookup time: 41763960507 nanoseconds
+  Time per lookup: 38.90 nanoseconds
+
+Test completed successfully!

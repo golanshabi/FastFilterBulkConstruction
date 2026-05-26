@@ -1,0 +1,90 @@
+Using fp_capacity = 2^(25) = 33554432
+num_pd=1412819
+Hashing Elapsed time: 0.0856874 s
+Sorting Elapsed time:  0.627551 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:  0.248864 s
+             Sorted:       Yes
+       v_add.size():  33554432
+          Num in PD:  31587778
+           Capacity:  33554432
+      Num empty PDs:         0
+      Total num PDs:   1412819
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
+Using fp_capacity = 2^(26) = 67108864
+num_pd=2825637
+Hashing Elapsed time:  0.171205 s
+Sorting Elapsed time:   1.26157 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:  0.500071 s
+             Sorted:       Yes
+       v_add.size():  67108864
+          Num in PD:  63173220
+           Capacity:  67108864
+      Num empty PDs:         0
+      Total num PDs:   2825637
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
+Using fp_capacity = 2^(27) = 134217728
+num_pd=5651273
+Hashing Elapsed time:  0.342654 s
+Sorting Elapsed time:   2.60076 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:   1.03266 s
+             Sorted:       Yes
+       v_add.size(): 134217728
+          Num in PD: 126348185
+           Capacity: 134217728
+      Num empty PDs:         0
+      Total num PDs:   5651273
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
+Using fp_capacity = 2^(28) = 268435456
+num_pd=11302546
+Hashing Elapsed time:  0.684865 s
+Sorting Elapsed time:   5.25422 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:   2.19401 s
+             Sorted:       Yes
+       v_add.size(): 268435456
+          Num in PD: 252691232
+           Capacity: 268435456
+      Num empty PDs:         0
+      Total num PDs:  11302546
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
+Using fp_capacity = 2^(29) = 536870912
+num_pd=22605092
+Hashing Elapsed time:   1.36968 s
+Sorting Elapsed time:    10.551 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:   4.51514 s
+             Sorted:       Yes
+       v_add.size(): 536870912
+          Num in PD: 505384305
+           Capacity: 536870912
+      Num empty PDs:         0
+      Total num PDs:  22605092
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
+Using fp_capacity = 2^(30) = 1073741824
+num_pd=45210183
+Hashing Elapsed time:   2.73983 s
+Sorting Elapsed time:   20.9681 s
+--------------------------------------------------------
+===== START OF PERFORMANCE SUMMARY =====
+       Elapsed time:   9.24616 s
+             Sorted:       Yes
+       v_add.size():1073741824
+          Num in PD:1010785688
+           Capacity:1073741824
+      Num empty PDs:         0
+      Total num PDs:  45210183
+===== END OF PERFORMANCE SUMMARY =====
+--------------------------------------------------------
